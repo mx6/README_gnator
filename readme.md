@@ -1,0 +1,30 @@
+
+
+# The Linn County Sheriff’s Office is currently coordinating evacuation and advisory efforts with area law enforcement and fire agency partners, along with the State of Oregon, related to fires in the North Santiam Canyon areas of Idanha, Detroit, Gates, Mill City, Lyons and Mehama.  In addition, coordination efforts are actively underway for the areas of Crawfordsville, Holley, Upper Calapooia Road, and the HWY20 Corridor from Foster, and east to the Mountain House..
+
+# Table of Contents 
+
+- [Installation](#installation)
+- [Contributions](#contribution)
+- [Tests](#tests)
+- [License](#license)
+- [Contact Me](#contact)
+
+## installation 
+# Installation instructions are as follows: 
+    The Linn County Sheriff’s Office is currently coordinating evacuation and advisory efforts with area law enforcement and fire agency partners, along with the State of Oregon, related to fires in the North Santiam Canyon areas of Idanha, Detroit, Gates, Mill City, Lyons and Mehama.  In addition, coordination efforts are actively underway for the areas of Crawfordsville, Holley, Upper Calapooia Road, and the HWY20 Corridor from Foster, and east to the Mountain House..
+## Contribution
+# Contribution Requirements for contribution are as follows: 
+    The Linn County Sheriff’s Office is currently coordinating evacuation and advisory efforts with area law enforcement and fire agency partners, along with the State of Oregon, related to fires in the North Santiam Canyon areas of Idanha, Detroit, Gates, Mill City, Lyons and Mehama.  In addition, coordination efforts are actively underway for the areas of Crawfordsville, Holley, Upper Calapooia Road, and the HWY20 Corridor from Foster, and east to the Mountain House.The Linn County Sheriff’s Office is currently coordinating evacuation and advisory efforts with area law enforcement and fire agency partners, along with the State of Oregon, related to fires in the North Santiam Canyon areas of Idanha, Detroit, Gates, Mill City, Lyons and Mehama.  In addition, coordination efforts are actively underway for the areas of Crawfordsville, Holley, Upper Calapooia Road, and the HWY20 Corridor from Foster, and east to the Mountain House.The Linn County Sheriff’s Office is currently coordinating evacuation and advisory efforts with area law enforcement and fire agency partners, along with the State of Oregon, related to fires in the North Santiam Canyon areas of Idanha, Detroit, Gates, Mill City, Lyons and Mehama.  In addition, coordination efforts are actively underway for the areas of Crawfordsville, Holley, Upper Calapooia Road, and the HWY20 Corridor from Foster, and east to the Mountain House.The Linn County Sheriff’s Office is currently coordinating evacuation and advisory efforts with area law enforcement and fire agency partners, along with the State of Oregon, related to fires in the North Santiam Canyon areas of Idanha, Detroit, Gates, Mill City, Lyons and Mehama.  In addition, coordination efforts are actively underway for the areas of Crawfordsville, Holley, Upper Calapooia Road, and the HWY20 Corridor from Foster, and east to the Mountain House..
+## tests
+# Conducted tests are as follows: 
+    The Linn County Sheriff’s Office is currently coordinating evacuation and advisory efforts with area law enforcement and fire agency partners, along with the State of Oregon, related to fires in the North Santiam Canyon areas of Idanha, Detroit, Gates, Mill City, Lyons and Mehama.  In addition, coordination efforts are actively underway for the areas of Crawfordsville, Holley, Upper Calapooia Road, and the HWY20 Corridor from Foster, and east to the Mountain House.The Linn County Sheriff’s Office is currently coordinating evacuation and advisory efforts with area law enforcement and fire agency partners, along with the State of Oregon, related to fires in the North Santiam Canyon areas of Idanha, Detroit, Gates, Mill City, Lyons and Mehama.  In addition, coordination efforts are actively underway for the areas of Crawfordsville, Holley, Upper Calapooia Road, and the HWY20 Corridor from Foster, and east to the Mountain House.The Linn County Sheriff’s Office is currently coordinating evacuation and advisory efforts with area law enforcement and fire agency partners, along with the State of Oregon, related to fires in the North Santiam Canyon areas of Idanha, Detroit, Gates, Mill City, Lyons and Mehama.  In addition, coordination efforts are actively underway for the areas of Crawfordsville, Holley, Upper Calapooia Road, and the HWY20 Corridor from Foster, and east to the Mountain House.The Linn County Sheriff’s Office is currently coordinating evacuation and advisory efforts with area law enforcement and fire agency partners, along with the State of Oregon, related to fires in the North Santiam Canyon areas of Idanha, Detroit, Gates, Mill City, Lyons and Mehama.  In addition, coordination efforts are actively underway for the areas of Crawfordsville, Holley, Upper Calapooia Road, and the HWY20 Corridor from Foster, and east to the Mountain House.The Linn County Sheriff’s Office is currently coordinating evacuation and advisory efforts with area law enforcement and fire agency partners, along with the State of Oregon, related to fires in the North Santiam Canyon areas of Idanha, Detroit, Gates, Mill City, Lyons and Mehama.  In addition, coordination efforts are actively underway for the areas of Crawfordsville, Holley, Upper Calapooia Road, and the HWY20 Corridor from Foster, and east to the Mountain House..
+## License:
+# For more information about the License, please follow the following link:
+    (https://opensource.org/licenses/MIT).
+
+## Contact
+[contact] You can find more information about me at the following links:
+Email: bob@bob.net	
+Please view my GitHub profile: https://www.github.com/chad.
+Please connect with me on LinkedIn: chad. 

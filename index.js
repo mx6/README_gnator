@@ -62,10 +62,12 @@ function promptUser() {
 
 function generateReadme (answers) {
     return `
+    
+![License](https://img.shields.io/badge/license-${answers.license}-blue.svg "License Badge")
 
 # ${answers.title}.
 
-# Table of Contents 
+## Table of Contents 
 
 - [Installation](#installation)
 - [Contributions](#contribution)
@@ -74,17 +76,18 @@ function generateReadme (answers) {
 - [Contact Me](#contact)
 
 ## installation 
-# Installation instructions are as follows: 
+## Installation instructions are as follows: 
     ${answers.installation}.
 ## Contribution
-# Contribution Requirements for contribution are as follows: 
+## Contribution Requirements for contribution are as follows: 
     ${answers.contribution}.
 ## tests
-# Conducted tests are as follows: 
+## Conducted tests are as follows: 
     ${answers.tests}.
 ## License:
-# For more information about the License, please follow the following link:
+## For more information about the License, please follow the following link:
     (https://opensource.org/licenses/${answers.license}).
+
 
 ## Contact
 [contact] You can find more information about me at the following links:

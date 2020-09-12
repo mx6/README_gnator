@@ -13,6 +13,6 @@ Adding screenshots.
 
 
 Adding one more screenshot.
-![screen2b](./Screen_Shot_02a.png)
+![screen2b](./Screen_Shot_02b.png)
 
 Correcting Screen Shot names.

@@ -37,3 +37,10 @@ One of the requirements was to load up a video showing that the CLI worked witho
 Good times.  I hope you enjoy the work as much as I enjoy writing these READ ME docs.  I mean it, I really enjoy it.
 
 M
+
+18SEP2020, 17:49
+Removed video download,and added YouTube link:
+https://youtu.be/O1cevCOhyWk
+
+You're welcome.
+
